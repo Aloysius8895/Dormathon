@@ -1,0 +1,616 @@
+[
+  {
+    "url": "https://thewatch.60fps.fr/assets/envmap-kW4EmG7W.exr",
+    "file": "assets/envmap-kW4EmG7W.exr",
+    "bytes": 1435813,
+    "content_type": "image/aces",
+    "sha256": "b70a253b421b3ed2f049e26801873381ee9d6449c25d8110a23491e33da51a52"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/EBGaramond-Regular.woff",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/EBGaramond-Regular.woff2",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/EBGaramond-SemiBold.woff",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/EBGaramond-SemiBold.woff2",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Black.ttf",
+    "file": "assets/fonts/Inter/Inter-Black.ttf",
+    "bytes": 408528,
+    "content_type": "font/ttf",
+    "sha256": "63a5b18a510525939997c1ea96aacf562cde6078281d1913fabb62fe7cbd731c"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Black.woff",
+    "file": "assets/fonts/Inter/Inter-Black.woff",
+    "bytes": 154988,
+    "content_type": "font/woff",
+    "sha256": "ab0a3761f466c17e247fe991a8600f90389abbed2283f2e6e01126ba80a86cfe"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Black.woff2",
+    "file": "assets/fonts/Inter/Inter-Black.woff2",
+    "bytes": 103588,
+    "content_type": "font/woff2",
+    "sha256": "19749d04ad9e1ead21122e5dcc169a1757253fe6ca454ebe5791b35a14557ce9"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Bold.ttf",
+    "file": "assets/fonts/Inter/Inter-Bold.ttf",
+    "bytes": 407536,
+    "content_type": "font/ttf",
+    "sha256": "0b0beffdec22cd75732cfc2af3cd9f8c9b1f95bacf46352c100b02152e53b6f5"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Bold.woff",
+    "file": "assets/fonts/Inter/Inter-Bold.woff",
+    "bytes": 159356,
+    "content_type": "font/woff",
+    "sha256": "c8279a185082949a6fc7811cdb2679f00d461a6751de8255edd90a4756afa30b"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Bold.woff2",
+    "file": "assets/fonts/Inter/Inter-Bold.woff2",
+    "bytes": 107232,
+    "content_type": "font/woff2",
+    "sha256": "e127e4452f2ecb20fda375f0dea3a5c7a255e7f5ee6be0a638996658820c9518"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-ExtraBold.ttf",
+    "file": "assets/fonts/Inter/Inter-ExtraBold.ttf",
+    "bytes": 408312,
+    "content_type": "font/ttf",
+    "sha256": "0303a8e505b448711868faff2a31907ebe6a679c6249d392424724f674b1f7f7"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-ExtraBold.woff",
+    "file": "assets/fonts/Inter/Inter-ExtraBold.woff",
+    "bytes": 158936,
+    "content_type": "font/woff",
+    "sha256": "959ae20a98646fdb588ea70c163d3740069f9a3e25590d69d71c7e34c367931a"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-ExtraBold.woff2",
+    "file": "assets/fonts/Inter/Inter-ExtraBold.woff2",
+    "bytes": 106860,
+    "content_type": "font/woff2",
+    "sha256": "3dfe89aa89ab19eff20cf5cab375abd701a10619c72e00b4819986a78a17c9c1"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-ExtraLight.ttf",
+    "file": "assets/fonts/Inter/Inter-ExtraLight.ttf",
+    "bytes": 402356,
+    "content_type": "font/ttf",
+    "sha256": "2f80fd9d01aabca56c485e2724438d0a04765b13092d1fbeb15d3e97391165d0"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-ExtraLight.woff",
+    "file": "assets/fonts/Inter/Inter-ExtraLight.woff",
+    "bytes": 156316,
+    "content_type": "font/woff",
+    "sha256": "3854af433bdd28af0f2945cc36031b17e896f8a805eda98fd106a7eeabef6df0"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-ExtraLight.woff2",
+    "file": "assets/fonts/Inter/Inter-ExtraLight.woff2",
+    "bytes": 105076,
+    "content_type": "font/woff2",
+    "sha256": "6f299f2ef331b89ece1f194a2f137d9e0144fd3640502aa4b7ca0ccadff9f75f"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Light.ttf",
+    "file": "assets/fonts/Inter/Inter-Light.ttf",
+    "bytes": 401928,
+    "content_type": "font/ttf",
+    "sha256": "9f1faf9ce544f93d738d72ff7b89c59cb1b37252f3728dd5f765e71b5b5c1888"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Light.woff",
+    "file": "assets/fonts/Inter/Inter-Light.woff",
+    "bytes": 156056,
+    "content_type": "font/woff",
+    "sha256": "5687bb4367e86f652d14d950360c95368e1ab1e3f246e9bd75e131b7583124aa"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Light.woff2",
+    "file": "assets/fonts/Inter/Inter-Light.woff2",
+    "bytes": 104876,
+    "content_type": "font/woff2",
+    "sha256": "ceb2ae7991a116815b7dfbc2fae4cd593447513e68532e06ffaa3f38649ed7ee"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Medium.ttf",
+    "file": "assets/fonts/Inter/Inter-Medium.ttf",
+    "bytes": 406312,
+    "content_type": "font/ttf",
+    "sha256": "3216b621ee10fca5c0efab994bf5e1213bb18e4b03b73804e0f474664353ee6b"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Medium.woff",
+    "file": "assets/fonts/Inter/Inter-Medium.woff",
+    "bytes": 157864,
+    "content_type": "font/woff",
+    "sha256": "b4c7d097a4bfbf7f09e0dabd212eeaad072644e3dfae5291c3d1968d6d4c9fd6"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Medium.woff2",
+    "file": "assets/fonts/Inter/Inter-Medium.woff2",
+    "bytes": 106372,
+    "content_type": "font/woff2",
+    "sha256": "cd7988f9f1f76b16c9fb1f0b3f2bece8098a350b34d8f0b6f233749fdec22b49"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Regular.ttf",
+    "file": "assets/fonts/Inter/Inter-Regular.ttf",
+    "bytes": 401788,
+    "content_type": "font/ttf",
+    "sha256": "c0874a29bb152f6d2df32d81fd8c7345bce1f74025cf30585bbeb8f8561742d0"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Regular.woff",
+    "file": "assets/fonts/Inter/Inter-Regular.woff",
+    "bytes": 149316,
+    "content_type": "font/woff",
+    "sha256": "df2f819181042908c7c8dcbef029ada37610504312883fe7594331af30e27705"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Regular.woff2",
+    "file": "assets/fonts/Inter/Inter-Regular.woff2",
+    "bytes": 98432,
+    "content_type": "font/woff2",
+    "sha256": "50714d09a35455d088af79fdc8dc7df0c92f80c3169170abb3e646837c6c1e19"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-SemiBold.ttf",
+    "file": "assets/fonts/Inter/Inter-SemiBold.ttf",
+    "bytes": 407260,
+    "content_type": "font/ttf",
+    "sha256": "b734d8066ad2fdaf6a2267499d6d70e8ede33b662bb618dc92271c2b55a51f06"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-SemiBold.woff",
+    "file": "assets/fonts/Inter/Inter-SemiBold.woff",
+    "bytes": 159076,
+    "content_type": "font/woff",
+    "sha256": "5d6663d9ce4cc0a02a88efdc65ea54c82da9075feed58fdc125658ed47e68ebd"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-SemiBold.woff2",
+    "file": "assets/fonts/Inter/Inter-SemiBold.woff2",
+    "bytes": 106768,
+    "content_type": "font/woff2",
+    "sha256": "45c036347255c79a682ea8a89485e4987531fe7a65fdcae14ed7d94cf2bef597"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Thin.ttf",
+    "file": "assets/fonts/Inter/Inter-Thin.ttf",
+    "bytes": 402632,
+    "content_type": "font/ttf",
+    "sha256": "aae4ea069bc26c3297bb267711ddc91a6a003c79d96531bf4a54591d43c2c941"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Thin.woff",
+    "file": "assets/fonts/Inter/Inter-Thin.woff",
+    "bytes": 150876,
+    "content_type": "font/woff",
+    "sha256": "e4c85b4ffba6c6112177e320bb12900b99840597c5cd2353ade5ef272787e787"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Inter/Inter-Thin.woff2",
+    "file": "assets/fonts/Inter/Inter-Thin.woff2",
+    "bytes": 98856,
+    "content_type": "font/woff2",
+    "sha256": "78300218b134e3dfb87674f15cf30ae114629977012da3f832e010ce6639b2c3"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Montserrat-Regular.woff",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Montserrat-Regular.woff2",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Black.ttf",
+    "file": "assets/fonts/Nekst/Nekst-Black.ttf",
+    "bytes": 131832,
+    "content_type": "font/ttf",
+    "sha256": "5c653f98003e15221911cdeaf36058a78818537da54f4f96a9f9fe0a020492b3"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Black.woff",
+    "file": "assets/fonts/Nekst/Nekst-Black.woff",
+    "bytes": 59708,
+    "content_type": "font/woff",
+    "sha256": "8ff48ae3fd71ea808f0f9d5382fc12bbde072eba2ba255a1931919591c9878bb"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Black.woff2",
+    "file": "assets/fonts/Nekst/Nekst-Black.woff2",
+    "bytes": 42912,
+    "content_type": "font/woff2",
+    "sha256": "66baded0c00fafc2eab148a1e5859e10cbeeef3ca9136a82756c1bc8cafb1bd6"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Bold.ttf",
+    "file": "assets/fonts/Nekst/Nekst-Bold.ttf",
+    "bytes": 154844,
+    "content_type": "font/ttf",
+    "sha256": "3c8fe63875a4232721ca8d27b1dd2e27b643403f309fb7b8c20dd358d5731f97"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Bold.woff",
+    "file": "assets/fonts/Nekst/Nekst-Bold.woff",
+    "bytes": 68016,
+    "content_type": "font/woff",
+    "sha256": "8a02c5b3a7f5adfbeb507926070f24d1440df4a152d16ea5e29d8f1c1bf4b859"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Bold.woff2",
+    "file": "assets/fonts/Nekst/Nekst-Bold.woff2",
+    "bytes": 48404,
+    "content_type": "font/woff2",
+    "sha256": "282cdcf783f3a5b1db1a0a13e136c68d6cdc57e0c97f49c4a862c25168b64f1e"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Light.ttf",
+    "file": "assets/fonts/Nekst/Nekst-Light.ttf",
+    "bytes": 125008,
+    "content_type": "font/ttf",
+    "sha256": "c465f2c47c93a51aefebf07a324ec2649d435f6d1a4c45e49fd99322f5aebe36"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Light.woff",
+    "file": "assets/fonts/Nekst/Nekst-Light.woff",
+    "bytes": 58904,
+    "content_type": "font/woff",
+    "sha256": "eaeabf0251f3ff6a583fd1b12c13addd38d4449317de43505f4e3689ed8d2253"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Light.woff2",
+    "file": "assets/fonts/Nekst/Nekst-Light.woff2",
+    "bytes": 42176,
+    "content_type": "font/woff2",
+    "sha256": "71e10b25aec9667ce243b740c99afbbaecc2fbd80e247e366d533d1326b232b4"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Medium.ttf",
+    "file": "assets/fonts/Nekst/Nekst-Medium.ttf",
+    "bytes": 126376,
+    "content_type": "font/ttf",
+    "sha256": "a9ae1396fab9f7555e690f8b026ad20d03cd0e1684266abc656fd1fb11024329"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Medium.woff",
+    "file": "assets/fonts/Nekst/Nekst-Medium.woff",
+    "bytes": 57204,
+    "content_type": "font/woff",
+    "sha256": "e00afbeaccf4b1e451e0cff1e24ff1aca33ddf7f8bd743737cf0bf41d44460cd"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Medium.woff2",
+    "file": "assets/fonts/Nekst/Nekst-Medium.woff2",
+    "bytes": 40744,
+    "content_type": "font/woff2",
+    "sha256": "e084a31e4cd48cfa85bbe8b765575dcefa0076982ddc2938aee43a7633329397"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Regular.ttf",
+    "file": "assets/fonts/Nekst/Nekst-Regular.ttf",
+    "bytes": 127464,
+    "content_type": "font/ttf",
+    "sha256": "abf6cc26bb0e9e54c53e889e8e9e8c7cc6285e7a7e0f9ffa254baef2d5e472b0"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Regular.woff",
+    "file": "assets/fonts/Nekst/Nekst-Regular.woff",
+    "bytes": 59812,
+    "content_type": "font/woff",
+    "sha256": "c8f20c13fc331090d0ece04d9fd1640fb3ebb295dff8d9b8457eaf3172555d36"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Regular.woff2",
+    "file": "assets/fonts/Nekst/Nekst-Regular.woff2",
+    "bytes": 42828,
+    "content_type": "font/woff2",
+    "sha256": "6bf7b4cd27342916ec2b87a14570304169d50168afdb6e9066f68868e031fcd2"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-SemiBold.ttf",
+    "file": "assets/fonts/Nekst/Nekst-SemiBold.ttf",
+    "bytes": 133672,
+    "content_type": "font/ttf",
+    "sha256": "79077aa87b7d38d624f99e617c77246c645c1d7a65e03eb1f7a754a227654ef7"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-SemiBold.woff",
+    "file": "assets/fonts/Nekst/Nekst-SemiBold.woff",
+    "bytes": 62532,
+    "content_type": "font/woff",
+    "sha256": "5c6a4346fdfa494b9ae2ad55ce810aef6bc26cfd2336ab42233c59066711bdc9"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-SemiBold.woff2",
+    "file": "assets/fonts/Nekst/Nekst-SemiBold.woff2",
+    "bytes": 45152,
+    "content_type": "font/woff2",
+    "sha256": "a801bc49ab3b831955539212721ba489bd6d1bdb13faee2953cc4d887a01e622"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Thin.ttf",
+    "file": "assets/fonts/Nekst/Nekst-Thin.ttf",
+    "bytes": 122648,
+    "content_type": "font/ttf",
+    "sha256": "ff1a7d77d3ad5d529369a87d0d87747227bcc92e9bc9a87e759f8561d8219ffa"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Thin.woff",
+    "file": "assets/fonts/Nekst/Nekst-Thin.woff",
+    "bytes": 55992,
+    "content_type": "font/woff",
+    "sha256": "787dc8002b8c1a3c11da215cda4c2516fe7c1f1131f45b2fe4374960871bcd3f"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/Nekst/Nekst-Thin.woff2",
+    "file": "assets/fonts/Nekst/Nekst-Thin.woff2",
+    "bytes": 39676,
+    "content_type": "font/woff2",
+    "sha256": "094c65fabb50c2670fdd596fd209a0580f20bae4fbddea140e7b2efdaea3c9d8"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/OpenSans-Regular.woff",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fonts/OpenSans-Regular.woff2",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/fr_FR.DKItQTa6.js",
+    "file": "assets/fr_FR.DKItQTa6.js",
+    "bytes": 5497,
+    "content_type": "text/javascript",
+    "sha256": "1c9c70d8f3e1bc2734ec2745c5f6d7a2ec05072e3754cf95d03e02e42b254fbb"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/gsapAnimation.pTu-v-2i.js",
+    "file": "assets/gsapAnimation.pTu-v-2i.js",
+    "bytes": 295,
+    "content_type": "text/javascript",
+    "sha256": "62c1b75d79d45f6c445aa45df0cba0e2412819d8ddb80604c230640ecdddf369"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/hotReplace.BfRBVwiW.js",
+    "file": "assets/hotReplace.BfRBVwiW.js",
+    "bytes": 106087,
+    "content_type": "text/javascript",
+    "sha256": "5072842fbb25fff487a9e8d735db444998a796fb11320bccf250942352c88a4f"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/index-BDKORhKJ.css",
+    "file": "assets/index-BDKORhKJ.css",
+    "bytes": 58504,
+    "content_type": "text/css",
+    "sha256": "856fa32e5d2de8bc8b8dd5646321b251baeb27c03011c9fe91053fb0bdc27454"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/index-BqUllk65.css",
+    "file": "assets/index-BqUllk65.css",
+    "bytes": 4455,
+    "content_type": "text/css",
+    "sha256": "a8b4b1a76ae1296e12cd613e84775d7acdcae4a9d33cf4b874720320961d84df"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/index-Ck-pEZ8v.js",
+    "file": "assets/index-Ck-pEZ8v.js",
+    "bytes": 679701,
+    "content_type": "text/javascript",
+    "sha256": "5578bb11ab66359283cd32c96f639aea51d6e2db070693e954420b0ea641472b"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/index-Co5JEu5S.css",
+    "file": "assets/index-Co5JEu5S.css",
+    "bytes": 10264,
+    "content_type": "text/css",
+    "sha256": "573ae97394f0f48e576cfa9fb39f35a73f430820f6ef2c39860ecd91d7b1da98"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/index-DSKOTUpi.css",
+    "file": "assets/index-DSKOTUpi.css",
+    "bytes": 19185,
+    "content_type": "text/css",
+    "sha256": "f02706fa090bc7c9894ddcce930535cb6f7ee52790f4e5a245c36c296f890b44"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/index.BXJSulOs.js",
+    "file": "assets/index.BXJSulOs.js",
+    "bytes": 692,
+    "content_type": "text/javascript",
+    "sha256": "59db60c66fc3800c673858123469b9fb5df89750765f375adc03ca04753c30f5"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/jsons/configs/default.js",
+    "file": "assets/jsons/configs/default.js",
+    "bytes": 2951,
+    "content_type": "text/html",
+    "sha256": "181af62faba017e516d2f9b3b6b8848833202e62b5be27b92dfee5600531cdaf"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/jsons/configs/only-default-backup.js",
+    "file": "assets/jsons/configs/only-default-backup.js",
+    "bytes": 2951,
+    "content_type": "text/html",
+    "sha256": "181af62faba017e516d2f9b3b6b8848833202e62b5be27b92dfee5600531cdaf"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/metal-B47qzO42.exr",
+    "file": "assets/metal-B47qzO42.exr",
+    "bytes": 395988,
+    "content_type": "image/aces",
+    "sha256": "b12b67e6b7bdc749e02401eea8d08805983c3fc205cf1c16f2dcef0c30846392"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/noise-solid-Lw93M9Kl.png",
+    "file": "assets/noise-solid-Lw93M9Kl.png",
+    "bytes": 104200,
+    "content_type": "image/png",
+    "sha256": "f89691c0682ffc12ab438aa22d58b91aaf32934ee770fffb4134388e756d4ca3"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/page1.BU5gSym-.js",
+    "file": "assets/page1.BU5gSym-.js",
+    "bytes": 699,
+    "content_type": "text/javascript",
+    "sha256": "43fca8753e863e91d54340b9b0fc9000770a0176679775195f23bc9cc7f1fb3b"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/page2.DTew6172.js",
+    "file": "assets/page2.DTew6172.js",
+    "bytes": 699,
+    "content_type": "text/javascript",
+    "sha256": "45e8fa49c651582b43d3f2be1d78764c4f63c05f9f31270b26ca4a80ecc9aff9"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/sample-project.COb35JvF.js",
+    "file": "assets/sample-project.COb35JvF.js",
+    "bytes": 8019,
+    "content_type": "text/javascript",
+    "sha256": "238077bcc5af28a18e665640651c7d616793492bf002b54a835f920bcf6f95b7"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch.D6O26wKS.js",
+    "file": "assets/the-watch.D6O26wKS.js",
+    "bytes": 200648,
+    "content_type": "text/javascript",
+    "sha256": "ab2ff94f24eed2e3f1db75a7ab4b946a90a51677a28b4fd8ede7f90bef011782"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/images-section/first_1.webp",
+    "file": "assets/the-watch/img/images-section/first_1.webp",
+    "bytes": 100466,
+    "content_type": "image/webp",
+    "sha256": "3cf35f13f53b8019f433b6106af2fecb2659c327fab8a66e429570f78f8a7d09"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/images-section/first_2.webp",
+    "file": "assets/the-watch/img/images-section/first_2.webp",
+    "bytes": 64918,
+    "content_type": "image/webp",
+    "sha256": "754da06741a6aaef8b39994b9513598dc6e4b459f8796c4a711d705aa0ad208d"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/images-section/first_3.webp",
+    "file": "assets/the-watch/img/images-section/first_3.webp",
+    "bytes": 115168,
+    "content_type": "image/webp",
+    "sha256": "31c51af3ec368981929ecc7ed08f27418985323da87f21bc2bc8ab68a682743f"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/images-section/first_4.webp",
+    "file": "assets/the-watch/img/images-section/first_4.webp",
+    "bytes": 127292,
+    "content_type": "image/webp",
+    "sha256": "9e04a2a53b0a835f2f37f4d8994044d17b12f0a1b96c8e4c60164b71854cb9d2"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/images-section/first_5.webp",
+    "file": "assets/the-watch/img/images-section/first_5.webp",
+    "bytes": 104144,
+    "content_type": "image/webp",
+    "sha256": "209758361d72f1785926cde316dc03003f0e8cdffbd6e580a85e0ddde12adaf5"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/parts/bezel.jpg",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/parts/buckle.jpg",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/parts/caseback.jpg",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/parts/crown.jpg",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/parts/crystal.jpg",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/parts/dial.jpg",
+    "file": "assets/the-watch/img/parts/dial.jpg",
+    "bytes": 3828,
+    "content_type": "image/jpeg",
+    "sha256": "63ed5514a54ec68ec707ec2d44866adb1999a91c9371ea0aed73817c70688916"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/parts/hands.jpg",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/parts/lugs.jpg",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/parts/movement.jpg",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/the-watch/img/parts/strap.jpg",
+    "error": "Server returned HTML instead of asset"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/assets/watch-DXFPNOEl.glb",
+    "file": "assets/watch-DXFPNOEl.glb",
+    "bytes": 9008924,
+    "content_type": "model/gltf-binary",
+    "sha256": "453ab66423f7ed5605401e02fb9aea1c8fc024502f4faebfbc9183ca34c0f708"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/favicon.png",
+    "file": "favicon.png",
+    "bytes": 4425,
+    "content_type": "image/png",
+    "sha256": "c7f48201d846c6d3834e51a43eff1d54d544f7213d62bfc8ec0017721029ef22"
+  },
+  {
+    "url": "https://thewatch.60fps.fr/share-image.webp",
+    "file": "share-image.webp",
+    "bytes": 82480,
+    "content_type": "image/webp",
+    "sha256": "4d69f53eb3e642e914e70f91e004f7c00fc483ddb2c417f9ba8f813a118ba7d0"
+  },
+  {
+    "url": "https://use.typekit.net/af/5d264d/000000000000000077359fa0/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3",
+    "file": "vendor/typekit/freight-big-pro-1.woff2",
+    "bytes": 29172,
+    "content_type": "application/font-woff2",
+    "sha256": "b3021f7609d8e83fb86a98b8ecdb35037484120a94eb820036a4fe413c1a77f7"
+  },
+  {
+    "url": "https://use.typekit.net/af/a91824/000000000000000077359f9d/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3",
+    "file": "vendor/typekit/freight-big-pro-0.woff2",
+    "bytes": 28500,
+    "content_type": "application/font-woff2",
+    "sha256": "85d04957c6ab6b15656d3ec0ae6a9895ebcf9865fb80308056b01a4ad28da32a"
+  },
+  {
+    "url": "https://use.typekit.net/qgk0diq.css",
+    "file": "vendor/typekit/qgk0diq.css",
+    "bytes": 2286,
+    "content_type": "text/css;charset=utf-8",
+    "sha256": "b6e51b641c0dd18797f7d241623ade65f27d2456bb0b3c5b99089a1146fc9d93"
+  }
+]

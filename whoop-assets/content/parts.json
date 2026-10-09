@@ -1,0 +1,11 @@
+{
+  "layoutStatus": "illustrative internal layout",
+  "parts": [
+    {"id":"housing","node":"Housing","title":"Housing","titleZh":"外壳","image":"renders/part-housing.png","copy":"A compact protective enclosure."},
+    {"id":"haptics","node":"Haptics","title":"Haptics","titleZh":"振动模块","image":"renders/part-haptics.png","copy":"Vibration feedback for alarms and notifications."},
+    {"id":"mainboard","node":"Mainboard","title":"Mainboard","titleZh":"主板","image":"renders/part-mainboard.png","copy":"Electronics for signal processing and connectivity."},
+    {"id":"battery","node":"Battery","title":"Battery","titleZh":"电池","image":"renders/part-battery.png","copy":"Stored power for continuous tracking."},
+    {"id":"sensors","node":"Sensors","title":"Sensors","titleZh":"传感器组","image":"renders/part-sensors.png","copy":"Optical sensing and associated electronics."},
+    {"id":"backplate","node":"Backplate","title":"Backplate","titleZh":"底盖","image":"renders/part-backplate.png","copy":"Skin-facing enclosure and optical windows."}
+  ]
+}

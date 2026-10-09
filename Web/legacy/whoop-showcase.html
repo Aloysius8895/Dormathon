@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="theme-color" content="#e8e8e6" />
+    <meta name="description" content="An independent interactive concept visualization of WHOOP 5.0." />
+    <meta property="og:title" content="WHOOP 5.0 — Interactive Concept" />
+    <meta property="og:image" content="/whoop/content/share-image.png" />
+    <link rel="icon" type="image/svg+xml" href="/whoop/content/favicon.svg" />
+    <link rel="stylesheet" href="/whoop-app.css" />
+    <title>WHOOP 5.0 — Interactive Concept</title>
+  </head>
+  <body>
+    <div id="app">
+      <div class="loader" id="loader" role="status" aria-live="polite"><span class="loader-ring"></span><span>LOADING THE EXPERIENCE <b id="load-progress">0%</b></span></div>
+      <header class="site-header">
+        <a class="brand" href="#top" aria-label="WHOOP 5.0 concept home">WHOOP<span>5.0</span></a>
+        <nav aria-label="Main navigation"><a href="#design">DESIGN</a><a href="#sensing">SENSING</a><a href="#assembly">ASSEMBLY</a></nav>
+        <span class="header-end">INDEPENDENT CONCEPT <span class="header-dot"></span></span>
+      </header>
+      <div class="progress-track" aria-hidden="true"><span id="page-progress"></span></div>
+      <div id="model-stage" class="model-stage" aria-label="Interactive WHOOP 5.0 model"><canvas id="model-canvas"></canvas><img id="model-fallback" src="/whoop/renders/01-hero.png" alt="WHOOP 5.0 concept wearable" hidden /><span class="model-hint">DRAG TO ROTATE <span>↗</span></span></div>
+
+      <main>
+        <section class="hero" id="top" data-scene="hero">
+          <div class="hero-grid" aria-hidden="true"></div>
+          <div class="hero-index"><span>01 / 06</span><span>THE EVERYDAY SENSOR</span></div>
+          <div class="hero-copy">
+            <p class="eyebrow">CONTINUOUS BY DESIGN&nbsp; / &nbsp;WHOOP 5.0</p>
+            <h1>BUILT<br />AROUND<br /><em>YOUR BODY.</em></h1>
+            <p class="hero-description">A screenless wearable for continuous health and performance insights.</p>
+            <a href="#design" class="round-link" aria-label="Explore the design"><span>EXPLORE<br />THE DESIGN</span><b>↓</b></a>
+          </div>
+          <div class="hero-side-note">A BETTER VIEW OF YOURSELF <span>—</span> 2026</div>
+          <div class="variant-panel" aria-label="Choose a concept color">
+            <div class="variant-heading"><span>COLOR STUDIES</span><span>01 — 04</span></div>
+            <div id="variant-list" class="variant-list"></div>
+            <p>Concept palettes · not official product SKUs</p>
+          </div>
+          <div class="scroll-cue"><span>SCROLL TO DISCOVER</span><i></i></div>
+        </section>
+
+        <section class="statement-section" id="design">
+          <div class="section-number">02 / 06 <span>THE FORM</span></div>
+          <div class="statement-inner"><p class="eyebrow">LESS DEVICE. MORE LIFE.</p><h2>MADE FOR<br /><em>EVERYDAY</em><br />WEAR.</h2><p>A compact sensor and adjustable woven band keep tracking close to your skin.</p></div>
+          <div class="statement-foot"><span>FLEXIBLE FIT</span><span>SCREENLESS FORM</span><span>CONTINUOUS WEAR</span></div>
+        </section>
+
+        <section class="feature-section feature-section--sensing" id="sensing">
+          <div class="feature-copy"><p class="section-number">03 / 06 <span>OPTICAL SENSING</span></p><p class="eyebrow">UNDERSTAND THE SIGNAL</p><h2>WHAT YOUR<br />BODY IS<br /><em>TELLING YOU.</em></h2><p>Optical sensing, motion data and skin temperature help support insights into sleep, strain and recovery.</p><div class="feature-rule"><span>01</span><span>SLEEP</span><span>STRAIN</span><span>RECOVERY</span></div></div>
+          <figure class="feature-image"><img src="/whoop/renders/03-sensors.png" alt="Illustrative optical sensing components inside the WHOOP concept sensor" loading="lazy" /><figcaption>CONCEPT SENSOR STUDY / INTERNAL LAYOUT ILLUSTRATIVE</figcaption></figure>
+        </section>
+
+        <section class="feature-section feature-section--band" id="band">
+          <figure class="feature-image"><img src="/whoop/renders/04-woven-band.png" alt="Close-up of a woven WHOOP concept band" loading="lazy" /><figcaption>SUPERKNIT-INSPIRED TEXTURE / CONCEPT VISUALIZATION</figcaption></figure>
+          <div class="feature-copy"><p class="section-number">04 / 06 <span>THE BAND</span></p><p class="eyebrow">COMFORT IN THE DETAILS</p><h2>TEXTURE<br />YOU CAN<br /><em>FEEL.</em></h2><p>Explore a woven band and four concept color palettes, made to move with your day.</p><a class="text-link" href="#top">EXPLORE COLORS <span>↗</span></a></div>
+        </section>
+
+        <section class="assembly-section" id="assembly" data-scene="assembly">
+          <div class="assembly-copy"><p class="section-number">05 / 06 <span>EXPLODED VIEW</span></p><p class="eyebrow">BENEATH THE SURFACE</p><h2>INSIDE<br />THE<br /><em>SENSOR.</em></h2><p>Explore six functional component groups in an illustrative exploded view.</p><div class="assembly-meter"><span>ASSEMBLY</span><div><i id="explode-progress"></i></div><span id="explode-value">00%</span></div><p class="concept-note">Concept assembly. Internal layout is illustrative, not an official engineering diagram.</p></div>
+          <div class="assembly-spacer"></div>
+          <div class="part-list" id="part-list"></div>
+        </section>
+
+        <section class="charging-section" id="charging">
+          <div class="charging-top"><p class="section-number">06 / 06 <span>STAY IN MOTION</span></p><p class="eyebrow">A ROUTINE THAT KEEPS GOING</p></div>
+          <div class="charging-main"><h2>KEEP YOUR<br /><em>ROUTINE</em><br />MOVING.</h2><div><p>WHOOP 5.0 supports the Basic Charger and Wireless PowerPack. The PowerPack enables charging while worn.</p><img src="/whoop/renders/02-side-profile.png" alt="Side profile of the WHOOP 5.0 concept wearable" loading="lazy" /></div></div>
+        </section>
+      </main>
+      <footer class="site-footer"><div><strong>WHOOP <span>5.0</span></strong><p>Independent product visualization.<br />Concept colors and internal layout are illustrative.</p></div><a href="#top">BACK TO TOP ↑</a><span>CONCEPT / 2026</span></footer>
+    </div>
+    <script type="module" src="/whoop-app.js"></script>
+  </body>
+</html>

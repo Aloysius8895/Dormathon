@@ -1,0 +1,258 @@
+{
+  "README.md": {
+    "bytes": 1932,
+    "sha256": "9fbdf2af102fc7716367bf0c863319472015888a5532ee8365ba0af0a4b919c5"
+  },
+  "WHOOP_Assets_Overview.png": {
+    "bytes": 219641,
+    "sha256": "4660c18554342ea379ea934393a236de054e9ad87a39063da51fede32ec801a0"
+  },
+  "brief.md": {
+    "bytes": 1648,
+    "sha256": "ffade940352739a3b5fcdd7eec024005e1c87074f8cfb3a270acc0dd8e83c871"
+  },
+  "content/copy.json": {
+    "bytes": 1173,
+    "sha256": "dc27c90bd8f129987c659e857fac180eafafa0553c52541cddc0fe6b8d946f8e"
+  },
+  "content/copy.md": {
+    "bytes": 2661,
+    "sha256": "00cb6536a76599a02076a01166b2bec55f975e73ad4920234065e3f21593d97b"
+  },
+  "content/favicon.svg": {
+    "bytes": 274,
+    "sha256": "9749e96d888335bdd9a791cc4e053c339a589f7452d01bdbe616c21ce274f2d3"
+  },
+  "content/parts.json": {
+    "bytes": 1076,
+    "sha256": "21e7e612042d848a7af56eccf5106f6a9f0d9ad0369956ac24a42e0c82d34337"
+  },
+  "content/share-image.png": {
+    "bytes": 112245,
+    "sha256": "85cdd4ee44abe9cfd73b482ce2f7caccf0272683b5874f0947fc38c94d4712d0"
+  },
+  "content/sources.md": {
+    "bytes": 1070,
+    "sha256": "0436b93f25bfa4937f39f8aa62590bfcf7517be88d8afba4e4646339809ccb26"
+  },
+  "integration/README.md": {
+    "bytes": 3947,
+    "sha256": "b4aa9d58e7e67d4fc41608795a19c0ca6f117ed08be646294c33fb9cc747a9c4"
+  },
+  "integration/page-config.json": {
+    "bytes": 1025,
+    "sha256": "60b4024d73b26aa93162f08a3a4f2181888da5a5ecc9884a30cc4dca69d9792f"
+  },
+  "integration/whoop-binding.js": {
+    "bytes": 3834,
+    "sha256": "69c7c43131133453e7377dc6f403d038342b8da8bde48076e118c35aa6b0aed0"
+  },
+  "model/source-manifest.json": {
+    "bytes": 12751,
+    "sha256": "2031ecbb9fb08118e61919eafee139a9d1561e61533a80cf86e732274df8e76f"
+  },
+  "model/textures/fabric-basecolor.png": {
+    "bytes": 17597,
+    "sha256": "846931b3caeab7661213086701ec95584bf517273a4a99c7814bb319872031dc"
+  },
+  "model/textures/fabric-metalrough.png": {
+    "bytes": 16013,
+    "sha256": "512ac0546c31238fb1b5618b35be9d6264d481b8f8eb838004764576c9f079a9"
+  },
+  "model/textures/fabric-normal.png": {
+    "bytes": 38566,
+    "sha256": "3fa969386e6810b8723221568857c72f6b9b1ae28ef392ca82b8d76f7f316150"
+  },
+  "model/textures/fabric-occlusion.png": {
+    "bytes": 16662,
+    "sha256": "e1bf431b4d7e1dc3b110e522a147b322e3044bfa53def99805b37c0ab97c90cd"
+  },
+  "model/whoop-mobile.glb": {
+    "bytes": 1643348,
+    "sha256": "d7608a791ae30f1a56ba92b7374d3557bf4ff067b40f4d8cc81b66aa7b9d72a1"
+  },
+  "model/whoop-source.bin": {
+    "bytes": 11701528,
+    "sha256": "ae74c2c37744724e4a9ba29f6c501eabea8b9bd0bdb9cd43960272c73a6e198b"
+  },
+  "model/whoop-source.gltf": {
+    "bytes": 128353,
+    "sha256": "fe736311942f49ca81df95dffef63e859839673c52475d7769baec29225e8d3c"
+  },
+  "model/whoop-source.npz": {
+    "bytes": 11613322,
+    "sha256": "e13cdb03899e69fcb7be89140dd908ac6bc1364cfc82c5c22dbf8702cfba2363"
+  },
+  "model/whoop-web.glb": {
+    "bytes": 11772124,
+    "sha256": "8d68c2aea162bd7c31387649ed3de987c2a473a7e1e065bb464c74100b0c5086"
+  },
+  "preview/WHOOP_Assets_Preview.html": {
+    "bytes": 15706584,
+    "sha256": "1ed6a5a024a0fac30cf3de34c7b65882270a18237252e07b3492c69f0a9b915a"
+  },
+  "references/user-exploded-reference.png": {
+    "bytes": 2176652,
+    "sha256": "ee870a738710fa76bb3a41223a7fd384205f0d18c54e1f73887ed42cbade18ec"
+  },
+  "references/user-product-reference.png": {
+    "bytes": 1445992,
+    "sha256": "0cf9931705b8685c6c4c2bf7d4946bc0533db4afadaa8da536b57c8483cf88a7"
+  },
+  "renders/01-hero.png": {
+    "bytes": 153121,
+    "sha256": "73078918ca94002a7d456c47601a642d8e599898b8f127b03a9e75002c3f7a28"
+  },
+  "renders/02-side-profile.png": {
+    "bytes": 129349,
+    "sha256": "1fcd7dbbb4d674fdb559d59ea302ab9506c90ee1e2cff62b26e2bf4ad6685458"
+  },
+  "renders/03-sensors.png": {
+    "bytes": 48087,
+    "sha256": "f845139e75e8d623192b2f3c36f24231899dc3e2f99fb6e3a1c8ec094b63534f"
+  },
+  "renders/04-woven-band.png": {
+    "bytes": 186231,
+    "sha256": "0a534de619b86d83c228699aa1d60a1c1c00ad90c1405f388e106cc793682a44"
+  },
+  "renders/05-exploded.png": {
+    "bytes": 22051,
+    "sha256": "6ae3752ffcdbd4f5c87c08e1c8990e5369d5b62a5dff3c2c0bbf310cf9b5ec20"
+  },
+  "renders/part-backplate.png": {
+    "bytes": 8452,
+    "sha256": "67e53db00605d69655f4b1fc44c4c7d28496af1b40a4040a06f8a7ef142435eb"
+  },
+  "renders/part-battery.png": {
+    "bytes": 9260,
+    "sha256": "77628b81de6870fabf46896d9615d2f6d47b7483c9ca6d151917dd51cc62478f"
+  },
+  "renders/part-haptics.png": {
+    "bytes": 14763,
+    "sha256": "089a397ef7c3c5ce5ab29c8e5ed2292bc344d6e4d95e962f516bb6ad87c7c1d1"
+  },
+  "renders/part-housing.png": {
+    "bytes": 10865,
+    "sha256": "32ce2e64388b0b9634a1b9d002ecb333f1c089f6813bb681b25d71969eea46c1"
+  },
+  "renders/part-mainboard.png": {
+    "bytes": 15647,
+    "sha256": "fa906b845931fe3d40d08229b189f91f1088c4d3226a84e2800348f8eaa240de"
+  },
+  "renders/part-sensors.png": {
+    "bytes": 11213,
+    "sha256": "c240dcae64ab6af668cf8f23bd0b2f276e8241834b4c9eb852a530b1943a7072"
+  },
+  "rights.md": {
+    "bytes": 1191,
+    "sha256": "1dfa8418e153ad403b0db0230480104703dbe0f89fc39453512b1bed4d6a227b"
+  },
+  "source/build_assets.py": {
+    "bytes": 16108,
+    "sha256": "2f2842aec6959110e139bd23dc5a811995990239ce871d1187b869a563cffc20"
+  },
+  "source/create_blend.py": {
+    "bytes": 774,
+    "sha256": "cffe9b800ca777ecd775272ebe69898bb7954d6a1596d972a17e0144756fb1df"
+  },
+  "source/make_preview.py": {
+    "bytes": 4974,
+    "sha256": "00fb1157a084e9c4d2add5b108bf9e76898b37c4228dfab72f1b50f6041d5883"
+  },
+  "source/primitives.py": {
+    "bytes": 3493,
+    "sha256": "c2fae6b1880f99867d441aebd0ed6a9c3c19866c95ca6a4bf9c42ac7e9f0b59d"
+  },
+  "source/viewer_template.html": {
+    "bytes": 7494,
+    "sha256": "3ecb98b87d6f1ae36639b278b191203ee01296a34b56f67e2cacb6141e6884e4"
+  },
+  "validation.json": {
+    "bytes": 1118,
+    "sha256": "4e9bd05c0ee87b94bdc2cde375d2e7cd5b72f00406fdb5d190499f2d42c1a179"
+  },
+  "variants/cobalt/back-sensor.png": {
+    "bytes": 122580,
+    "sha256": "a62ad16385fa8a815b555affc0affd7d03772673edb937e3bd69e926e5dde199"
+  },
+  "variants/cobalt/front.png": {
+    "bytes": 172859,
+    "sha256": "644aa9efe71e0890dace74952bc3d0d7d5d7d1ea720ac04073df4d13aee25dd9"
+  },
+  "variants/cobalt/side.png": {
+    "bytes": 92003,
+    "sha256": "909cce88ef5d8168304e0630c81a0a6609db76bb347995067912cea6ee26e0c8"
+  },
+  "variants/cobalt/variant.json": {
+    "bytes": 106,
+    "sha256": "47ea0140bffbe926aa0e8965bfe405b10b1e4f47147f3fb0b3e695b82ff0d7a7"
+  },
+  "variants/cobalt/worn-concept.png": {
+    "bytes": 101143,
+    "sha256": "0e6a0847b14d28e4dc9ac094a8ed45fc42764ec5137f1397f5e790dba8522b9e"
+  },
+  "variants/dune/back-sensor.png": {
+    "bytes": 129063,
+    "sha256": "769c11813459869e76031bbdf5211d2fe78152b5ded9b277a4ed8d19fa0f963f"
+  },
+  "variants/dune/front.png": {
+    "bytes": 180731,
+    "sha256": "3c2ae11910154ea3e1ea591f104ec251bf5a987a537f3a9e2c6a34d2e2c31c3d"
+  },
+  "variants/dune/side.png": {
+    "bytes": 96393,
+    "sha256": "0392fb808cf696d38903cfcbcc2842c7b187b98b98f64e7a139a826a381499f6"
+  },
+  "variants/dune/variant.json": {
+    "bytes": 102,
+    "sha256": "a8f555e794692a9233b22ec32a8b0a3425608164c10316574fc8306ab48c2b7e"
+  },
+  "variants/dune/worn-concept.png": {
+    "bytes": 102993,
+    "sha256": "1df8c81948b049d6e17f48d4848e6ce37dfdeaeecf6f635872d5a077fdc25f96"
+  },
+  "variants/graphite/back-sensor.png": {
+    "bytes": 107263,
+    "sha256": "c8ea9d89c919eb632b4873ef39909e7ceeb9daf42327df4d305f10cf1253a11d"
+  },
+  "variants/graphite/front.png": {
+    "bytes": 152483,
+    "sha256": "01b6d4923363a6ea2dd51cccb260d824bde12274701cd49d2eb3b67fd051f858"
+  },
+  "variants/graphite/side.png": {
+    "bytes": 80948,
+    "sha256": "23abcc9e4e51c901f360178c6ecdbc607f2f5e76cdf5c1d5d29ad93d75d606eb"
+  },
+  "variants/graphite/variant.json": {
+    "bytes": 110,
+    "sha256": "b09159b0256ffb6416f1d8706906c107e0bcabebe217e15346ad39b9806e7ea4"
+  },
+  "variants/graphite/worn-concept.png": {
+    "bytes": 95446,
+    "sha256": "dca95884fea6240560761818da7cc0bd2b07ae941c976f6861993b79a1347e8f"
+  },
+  "variants/sage/back-sensor.png": {
+    "bytes": 123520,
+    "sha256": "6bcec4edb451f6ff06cb8efe5f85296cd755789b265d97bfa96e15bcd280fb99"
+  },
+  "variants/sage/front.png": {
+    "bytes": 174091,
+    "sha256": "c2f880d1aee0db137f56ba849c5ab4175f9a8808763bd125fea4932dcbff7575"
+  },
+  "variants/sage/side.png": {
+    "bytes": 92780,
+    "sha256": "4d6e49e54ad1f2450edb2ffd48037d730a0f52214c36aa9fb304e39a5785704d"
+  },
+  "variants/sage/variant.json": {
+    "bytes": 102,
+    "sha256": "498d38e68742042ed1ee1177e5fcdbb04f0b172a2f411ab36e348d8aa64498ba"
+  },
+  "variants/sage/worn-concept.png": {
+    "bytes": 101591,
+    "sha256": "8f85c2dc4c12e7d3806bd3359492b531921dcec7148540d1b21cabf6d0d61629"
+  },
+  "variants/variants.json": {
+    "bytes": 655,
+    "sha256": "886c17e82adad9cc42ba5f6b35b0d1748b68517151c35c57f92962506a0e6bf6"
+  }
+}

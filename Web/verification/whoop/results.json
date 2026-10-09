@@ -1,0 +1,38 @@
+[
+  {
+    "viewport": "desktop",
+    "title": "WHOOP 5.0 \u2014 Interactive Concept",
+    "model_loaded": true,
+    "selected_cobalt": "true",
+    "assembly_progress": "43%",
+    "parts": 6,
+    "old_watch_text": false,
+    "geometry": {
+      "height": 1000,
+      "scrollY": 0,
+      "hero": 1292.84375,
+      "variantTop": 1137.84375
+    },
+    "errors": [],
+    "http_errors": [],
+    "external_requests": []
+  },
+  {
+    "viewport": "mobile",
+    "title": "WHOOP 5.0 \u2014 Interactive Concept",
+    "model_loaded": true,
+    "selected_cobalt": "true",
+    "assembly_progress": "70%",
+    "parts": 6,
+    "old_watch_text": false,
+    "geometry": {
+      "height": 844,
+      "scrollY": 0,
+      "hero": 1059.4375,
+      "variantTop": 913.9375
+    },
+    "errors": [],
+    "http_errors": [],
+    "external_requests": []
+  }
+]

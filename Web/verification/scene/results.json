@@ -1,0 +1,2465 @@
+[
+  {
+    "viewport": "desktop",
+    "ready": true,
+    "errors": [],
+    "console_errors": [],
+    "http_errors": [],
+    "interaction": {
+      "target": {
+        "x": 588.7185068633131,
+        "y": 450,
+        "canHover": true
+      },
+      "mainboard_z_before": 0.0378,
+      "hovered": 3,
+      "clicked": {
+        "index": 3,
+        "z": 0.0365,
+        "ry": 0.505
+      },
+      "rest": {
+        "whoop": 0.11489325230291705,
+        "watch": 0.11173550079958247,
+        "progress": 0
+      },
+      "longpress": {
+        "whoop": 0.11178330430291708,
+        "watch": 0.10862555279958248,
+        "progress": 1
+      }
+    },
+    "shots": [
+      {
+        "shot": "desktop-00.png",
+        "scroll": 0,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          0,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": null,
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-01.png",
+        "scroll": 1404,
+        "anchored": true,
+        "watchRotation": [
+          -0.365,
+          1.899,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Intro",
+          "progress": 0.264
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-02.png",
+        "scroll": 2807,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          6.283,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Intro",
+          "progress": 0.526
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-03.png",
+        "scroll": 4211,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          5.196,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Intro",
+          "progress": 0.794
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-04.png",
+        "scroll": 5614,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          4.869,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Disassembly",
+          "progress": 0.337
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0151,
+            "ry": 0.188,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0204,
+            "ry": 0.164,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0263,
+            "ry": 0.142,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0322,
+            "ry": 0.128,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0367,
+            "ry": 0.119,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0421,
+            "ry": 0.112,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": -0.0411,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-05.png",
+        "scroll": 7018,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          4.869,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Disassembly",
+          "progress": 0.726
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": -0.0164,
+            "ry": 0.315,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": -0.0015,
+            "ry": 0.34,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0219,
+            "ry": 0.628,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0446,
+            "ry": 0.369,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0594,
+            "ry": 0.316,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0736,
+            "ry": 0.314,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": -0.2,
+            "ry": 0,
+            "visible": false
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-06.png",
+        "scroll": 8422,
+        "anchored": true,
+        "watchRotation": [
+          -0.513,
+          5.969,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Particles",
+          "progress": 0.183
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.2316,
+            "ry": 0,
+            "visible": false
+          },
+          "Band_Pivot": {
+            "z": -0.2,
+            "ry": 0,
+            "visible": false
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-07.png",
+        "scroll": 9825,
+        "anchored": true,
+        "watchRotation": [
+          -0.812,
+          6.153,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Particles",
+          "progress": 0.378
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.2316,
+            "ry": 0,
+            "visible": false
+          },
+          "Band_Pivot": {
+            "z": -0.2,
+            "ry": 0,
+            "visible": false
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-08.png",
+        "scroll": 11229,
+        "anchored": true,
+        "watchRotation": [
+          -0.942,
+          6.283,
+          0
+        ],
+        "watchPosition": [
+          0,
+          -0.413,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Particles",
+          "progress": 0.573
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": -0.0349,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-09.png",
+        "scroll": 12632,
+        "anchored": true,
+        "watchRotation": [
+          -0.016,
+          6.283,
+          0
+        ],
+        "watchPosition": [
+          0,
+          -0.008,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Particles",
+          "progress": 0.768
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-10.png",
+        "scroll": 14036,
+        "anchored": true,
+        "watchRotation": [
+          -0.931,
+          6.283,
+          0
+        ],
+        "watchPosition": [
+          0,
+          -1.086,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Particles",
+          "progress": 0.96
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-11.png",
+        "scroll": 15439,
+        "anchored": true,
+        "watchRotation": [
+          -0.942,
+          6.283,
+          0
+        ],
+        "watchPosition": [
+          0,
+          -1.1,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Presentation",
+          "progress": 0.224
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-12.png",
+        "scroll": 16843,
+        "anchored": true,
+        "watchRotation": [
+          -0.106,
+          6.283,
+          0
+        ],
+        "watchPosition": [
+          0.532,
+          -0.124,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Presentation",
+          "progress": 0.381
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-13.png",
+        "scroll": 18247,
+        "anchored": true,
+        "watchRotation": [
+          -0.014,
+          6.283,
+          -0.011
+        ],
+        "watchPosition": [
+          0.596,
+          -0.008,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Presentation",
+          "progress": 0.535
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-14.png",
+        "scroll": 19650,
+        "anchored": true,
+        "watchRotation": [
+          -1.885,
+          6.283,
+          -1.571
+        ],
+        "watchPosition": [
+          0,
+          -1.15,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Presentation",
+          "progress": 0.691
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-15.png",
+        "scroll": 21054,
+        "anchored": true,
+        "watchRotation": [
+          -1.274,
+          6.283,
+          -1.571
+        ],
+        "watchPosition": [
+          0,
+          -1.228,
+          2.954
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Presentation",
+          "progress": 0.848
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-16.png",
+        "scroll": 22457,
+        "anchored": true,
+        "watchRotation": [
+          -1.571,
+          6.283,
+          -1.571
+        ],
+        "watchPosition": [
+          0,
+          0,
+          3.8
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Straps",
+          "progress": 0.213
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-17.png",
+        "scroll": 23861,
+        "anchored": true,
+        "watchRotation": [
+          -1.571,
+          6.283,
+          -1.571
+        ],
+        "watchPosition": [
+          0,
+          0,
+          3.8
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Straps",
+          "progress": 0.524
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-18.png",
+        "scroll": 25265,
+        "anchored": true,
+        "watchRotation": [
+          -1.571,
+          6.283,
+          -1.571
+        ],
+        "watchPosition": [
+          0,
+          0,
+          3.8
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Straps",
+          "progress": 0.836
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-19.png",
+        "scroll": 26668,
+        "anchored": true,
+        "watchRotation": [
+          -1.571,
+          6.283,
+          -1.571
+        ],
+        "watchPosition": [
+          0,
+          0,
+          3.8
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Images",
+          "progress": 0.621
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-20.png",
+        "scroll": 28072,
+        "anchored": true,
+        "watchRotation": [
+          -0.471,
+          0.63,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0.014
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Colors",
+          "progress": 0.271
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-21.png",
+        "scroll": 29475,
+        "anchored": true,
+        "watchRotation": [
+          -0.47,
+          0.627,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Colors",
+          "progress": 0.554
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-22.png",
+        "scroll": 30879,
+        "anchored": true,
+        "watchRotation": [
+          -0.002,
+          0.003,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Colors",
+          "progress": 0.837
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-23.png",
+        "scroll": 32282,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          0,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Parts",
+          "progress": 0.686
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "desktop-24.png",
+        "scroll": 33686,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          0,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": null,
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      }
+    ]
+  },
+  {
+    "viewport": "mobile",
+    "ready": true,
+    "errors": [],
+    "console_errors": [],
+    "http_errors": [],
+    "interaction": null,
+    "shots": [
+      {
+        "shot": "mobile-00.png",
+        "scroll": 0,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          0,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": null,
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-01.png",
+        "scroll": 2561,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          6.277,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Intro",
+          "progress": 0.576
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-02.png",
+        "scroll": 5122,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          4.869,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Disassembly",
+          "progress": 0.45
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": -0.0131,
+            "ry": 0.25,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0035,
+            "ry": 0.25,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0207,
+            "ry": 0.25,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0379,
+            "ry": 0.25,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0536,
+            "ry": 0.25,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0704,
+            "ry": 0.25,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": -0.1316,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-03.png",
+        "scroll": 7684,
+        "anchored": true,
+        "watchRotation": [
+          -0.613,
+          5.969,
+          0
+        ],
+        "watchPosition": [
+          0.25,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Particles",
+          "progress": 0.23
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.2316,
+            "ry": 0,
+            "visible": false
+          },
+          "Band_Pivot": {
+            "z": -0.2,
+            "ry": 0,
+            "visible": false
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-04.png",
+        "scroll": 10245,
+        "anchored": true,
+        "watchRotation": [
+          -0.942,
+          6.283,
+          0
+        ],
+        "watchPosition": [
+          0,
+          -0.493,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Particles",
+          "progress": 0.609
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": -0.0029,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-05.png",
+        "scroll": 12806,
+        "anchored": true,
+        "watchRotation": [
+          -0.942,
+          6.283,
+          0
+        ],
+        "watchPosition": [
+          0,
+          -1.1,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Particles",
+          "progress": 0.988
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-06.png",
+        "scroll": 15367,
+        "anchored": true,
+        "watchRotation": [
+          -0.046,
+          6.283,
+          0
+        ],
+        "watchPosition": [
+          0.57,
+          -0.054,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Presentation",
+          "progress": 0.394
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-07.png",
+        "scroll": 17928,
+        "anchored": true,
+        "watchRotation": [
+          -1.885,
+          6.283,
+          -1.571
+        ],
+        "watchPosition": [
+          0,
+          -1.15,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Presentation",
+          "progress": 0.697
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-08.png",
+        "scroll": 20489,
+        "anchored": true,
+        "watchRotation": [
+          -1.571,
+          6.283,
+          -1.571
+        ],
+        "watchPosition": [
+          0,
+          0,
+          3.8
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Straps",
+          "progress": 0.202
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-09.png",
+        "scroll": 23051,
+        "anchored": true,
+        "watchRotation": [
+          -1.571,
+          6.283,
+          -1.571
+        ],
+        "watchPosition": [
+          0,
+          0,
+          3.8
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Straps",
+          "progress": 0.809
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-10.png",
+        "scroll": 25612,
+        "anchored": true,
+        "watchRotation": [
+          -0.471,
+          0.628,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Colors",
+          "progress": 0.343
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-11.png",
+        "scroll": 28173,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          0,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": {
+          "name": "Colors",
+          "progress": 0.895
+        },
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      },
+      {
+        "shot": "mobile-12.png",
+        "scroll": 30734,
+        "anchored": true,
+        "watchRotation": [
+          0,
+          0,
+          0
+        ],
+        "watchPosition": [
+          0,
+          0,
+          0
+        ],
+        "visibleWatchMeshes": 0,
+        "footerWhoops": 4,
+        "section": null,
+        "pivots": {
+          "": {
+            "z": -0.0021,
+            "ry": -1.571,
+            "visible": true
+          },
+          "Backplate_Pivot": {
+            "z": 0.0257,
+            "ry": 0,
+            "visible": true
+          },
+          "Sensors_Pivot": {
+            "z": 0.0268,
+            "ry": 0,
+            "visible": true
+          },
+          "Battery_Pivot": {
+            "z": 0.0284,
+            "ry": 0,
+            "visible": true
+          },
+          "Mainboard_Pivot": {
+            "z": 0.0301,
+            "ry": 0,
+            "visible": true
+          },
+          "Haptics_Pivot": {
+            "z": 0.0304,
+            "ry": 0,
+            "visible": true
+          },
+          "Housing_Pivot": {
+            "z": 0.0316,
+            "ry": 0,
+            "visible": true
+          },
+          "Band_Pivot": {
+            "z": 0,
+            "ry": 0,
+            "visible": true
+          }
+        },
+        "variant": "graphite"
+      }
+    ]
+  }
+]

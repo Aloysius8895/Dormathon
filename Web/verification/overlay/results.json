@@ -1,0 +1,104 @@
+[
+  {
+    "viewport": "desktop",
+    "initial": {
+      "title": "FS 60P - The timeless automatic watch by 60fps",
+      "model": "WHOOP 3D model",
+      "oldCanvasHidden": true,
+      "sectionCount": 14,
+      "loaderVisible": true
+    },
+    "variant": "graphite",
+    "errors": [],
+    "http_errors": [
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/hands.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/bezel.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/crystal.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/strap.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/lugs.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/buckle.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/crown.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/movement.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/caseback.jpg",
+        "status": 404
+      }
+    ],
+    "final_scroll": 5697
+  },
+  {
+    "viewport": "mobile",
+    "initial": {
+      "title": "FS 60P - The timeless automatic watch by 60fps",
+      "model": "WHOOP 3D model",
+      "oldCanvasHidden": true,
+      "sectionCount": 14,
+      "loaderVisible": false
+    },
+    "variant": "graphite",
+    "errors": [],
+    "http_errors": [
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/crystal.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/hands.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/bezel.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/lugs.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/strap.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/buckle.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/crown.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/caseback.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18084/assets/the-watch/img/parts/movement.jpg",
+        "status": 404
+      }
+    ],
+    "final_scroll": 0
+  }
+]

@@ -1,0 +1,34 @@
+{
+  "status": "concept colors, not official SKUs",
+  "shared_model": "../model/whoop-web.glb",
+  "variants": [
+    {
+      "id": "graphite",
+      "name": "Graphite",
+      "strap": "#202427",
+      "fiber": "#4b5155",
+      "clasp": "#535a60"
+    },
+    {
+      "id": "dune",
+      "name": "Dune",
+      "strap": "#c4b397",
+      "fiber": "#e5d8bd",
+      "clasp": "#b7a88b"
+    },
+    {
+      "id": "sage",
+      "name": "Sage",
+      "strap": "#718273",
+      "fiber": "#a5b3a4",
+      "clasp": "#7e8981"
+    },
+    {
+      "id": "cobalt",
+      "name": "Cobalt",
+      "strap": "#335889",
+      "fiber": "#7393ba",
+      "clasp": "#707b87"
+    }
+  ]
+}

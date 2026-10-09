@@ -1,0 +1,19 @@
+{
+  "product":"WHOOP 5.0",
+  "locale":"en",
+  "modelDesktop":"model/whoop-web.glb",
+  "modelMobile":"model/whoop-mobile.glb",
+  "mobileBreakpoint":768,
+  "variants":"variants/variants.json",
+  "parts":"content/parts.json",
+  "clips":{"explode":"WHOOP_Explode","clasp":"WHOOP_ClaspOpen"},
+  "imageSlots":[
+    {"id":"hero","src":"renders/01-hero.png","alt":"WHOOP 5.0 concept wearable with a woven band"},
+    {"id":"profile","src":"renders/02-side-profile.png","alt":"Side profile of the compact sensor"},
+    {"id":"sensing","src":"renders/03-sensors.png","alt":"Illustrative optical sensing electronics"},
+    {"id":"band","src":"renders/04-woven-band.png","alt":"Woven band in Dune concept color"},
+    {"id":"assembly","src":"renders/05-exploded.png","alt":"Concept exploded view of six sensor component groups"}
+  ],
+  "scrollSections":["hero","wear","sensing","band","assembly","charging"],
+  "meta":{"title":"WHOOP 5.0 — Interactive Concept","shareImage":"content/share-image.png","favicon":"content/favicon.svg"}
+}

@@ -1,0 +1,30 @@
+{
+  "hero": {
+    "title": "WHOOP 5.0",
+    "headline": "Built around your body.",
+    "subtitle": "A screenless wearable for continuous health and performance insights.",
+    "cta": "Explore the sensor"
+  },
+  "wear": {
+    "title": "Made for everyday wear.",
+    "body": "A compact sensor and adjustable woven band keep tracking close to your skin."
+  },
+  "sensor": {
+    "title": "Understand what your body is telling you.",
+    "body": "Optical sensing, motion data and skin temperature help support insights into sleep, strain and recovery."
+  },
+  "band": {
+    "title": "Texture you can feel.",
+    "body": "Explore a woven band and four concept color palettes."
+  },
+  "assembly": {
+    "title": "Inside the sensor.",
+    "body": "Explore six functional component groups in an illustrative exploded view.",
+    "caption": "Concept assembly. Internal layout is illustrative."
+  },
+  "charging": {
+    "title": "Keep your routine moving.",
+    "body": "WHOOP 5.0 supports the Basic Charger and Wireless PowerPack. The PowerPack enables charging while worn."
+  },
+  "footer": "Independent product visualization. Concept colors and internal layout are illustrative."
+}

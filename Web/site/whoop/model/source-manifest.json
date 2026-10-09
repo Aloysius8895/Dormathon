@@ -1,0 +1,606 @@
+{
+  "units": "meters",
+  "product": "WHOOP 5.0",
+  "groups": {
+    "Strap": {
+      "origin": [
+        0.0,
+        0.0,
+        0.0
+      ],
+      "explode_delta": [
+        0.0,
+        0.0,
+        0.14
+      ],
+      "parts": [
+        "Strap_Surface",
+        "Strap_Knit_Relief",
+        "Strap_Edge_Stitching"
+      ]
+    },
+    "Housing": {
+      "origin": [
+        0.0343,
+        0.0,
+        0.0
+      ],
+      "explode_delta": [
+        0.0,
+        0.0,
+        0.14
+      ],
+      "parts": [
+        "Housing_OuterCover",
+        "Housing_SideRail",
+        "Housing_SideRail",
+        "Housing_StatusLED"
+      ]
+    },
+    "Haptics": {
+      "origin": [
+        0.0343,
+        0.0,
+        0.0
+      ],
+      "explode_delta": [
+        0.0,
+        0.0,
+        0.084
+      ],
+      "parts": [
+        "Haptics_LRA",
+        "Haptics_Flex"
+      ]
+    },
+    "Mainboard": {
+      "origin": [
+        0.0343,
+        0.0,
+        0.0
+      ],
+      "explode_delta": [
+        0.0,
+        0.0,
+        0.028
+      ],
+      "parts": [
+        "Mainboard_PCB",
+        "Mainboard_Chip",
+        "Mainboard_Chip",
+        "Mainboard_Chip",
+        "Mainboard_Chip",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Contact",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component",
+        "Mainboard_Component"
+      ]
+    },
+    "Battery": {
+      "origin": [
+        0.0343,
+        0.0,
+        0.0
+      ],
+      "explode_delta": [
+        0.0,
+        0.0,
+        -0.028
+      ],
+      "parts": [
+        "Battery_Cell",
+        "Battery_Flex"
+      ]
+    },
+    "Sensors": {
+      "origin": [
+        0.0343,
+        0.0,
+        0.0
+      ],
+      "explode_delta": [
+        0.0,
+        0.0,
+        -0.084
+      ],
+      "parts": [
+        "Sensors_PCB",
+        "Sensors_OpticalWindow",
+        "Sensors_OpticalWindow",
+        "Sensors_OpticalWindow",
+        "Sensors_OpticalWindow",
+        "Sensors_OpticalWindow",
+        "Sensors_Contact",
+        "Sensors_Contact",
+        "Sensors_Contact",
+        "Sensors_Contact",
+        "Sensors_Contact",
+        "Sensors_Contact",
+        "Sensors_Contact",
+        "Sensors_Contact"
+      ]
+    },
+    "Backplate": {
+      "origin": [
+        0.0343,
+        0.0,
+        0.0
+      ],
+      "explode_delta": [
+        0.0,
+        0.0,
+        -0.14
+      ],
+      "parts": [
+        "Backplate_InnerShell",
+        "Backplate_OpticalGlass",
+        "Backplate_OpticalGlass",
+        "Backplate_OpticalGlass",
+        "Backplate_OpticalGlass",
+        "Backplate_OpticalGlass"
+      ]
+    },
+    "Clasp": {
+      "origin": [
+        0.0312,
+        -0.0171,
+        0.0
+      ],
+      "explode_delta": [
+        0.0,
+        0.0,
+        0.14
+      ],
+      "parts": [
+        "Clasp_Bridge",
+        "Clasp_Hinge",
+        "Clasp_Hinge",
+        "Clasp_ConceptMark",
+        "Clasp_ConceptMark",
+        "Clasp_ConceptMark",
+        "Clasp_ConceptMark"
+      ]
+    }
+  },
+  "meshes": [
+    {
+      "array_prefix": "0",
+      "name": "Strap_Surface",
+      "material": "Strap_Fabric"
+    },
+    {
+      "array_prefix": "1",
+      "name": "Strap_Knit_Relief",
+      "material": "Strap_Fibers"
+    },
+    {
+      "array_prefix": "2",
+      "name": "Strap_Edge_Stitching",
+      "material": "Strap_Fibers"
+    },
+    {
+      "array_prefix": "3",
+      "name": "Housing_OuterCover",
+      "material": "Housing_Matte"
+    },
+    {
+      "array_prefix": "4",
+      "name": "Housing_SideRail",
+      "material": "Housing_Matte"
+    },
+    {
+      "array_prefix": "5",
+      "name": "Housing_SideRail",
+      "material": "Housing_Matte"
+    },
+    {
+      "array_prefix": "6",
+      "name": "Housing_StatusLED",
+      "material": "Sensor_LED"
+    },
+    {
+      "array_prefix": "7",
+      "name": "Haptics_LRA",
+      "material": "Haptics_Metal"
+    },
+    {
+      "array_prefix": "8",
+      "name": "Haptics_Flex",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "9",
+      "name": "Mainboard_PCB",
+      "material": "PCB"
+    },
+    {
+      "array_prefix": "10",
+      "name": "Mainboard_Chip",
+      "material": "Chip"
+    },
+    {
+      "array_prefix": "11",
+      "name": "Mainboard_Chip",
+      "material": "Chip"
+    },
+    {
+      "array_prefix": "12",
+      "name": "Mainboard_Chip",
+      "material": "Chip"
+    },
+    {
+      "array_prefix": "13",
+      "name": "Mainboard_Chip",
+      "material": "Chip"
+    },
+    {
+      "array_prefix": "14",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "15",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "16",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "17",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "18",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "19",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "20",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "21",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "22",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "23",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "24",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "25",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "26",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "27",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "28",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "29",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "30",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "31",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "32",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "33",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "34",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "35",
+      "name": "Mainboard_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "36",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "37",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "38",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "39",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "40",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "41",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "42",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "43",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "44",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "45",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "46",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "47",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "48",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "49",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "50",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "51",
+      "name": "Mainboard_Component",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "52",
+      "name": "Battery_Cell",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "53",
+      "name": "Battery_Flex",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "54",
+      "name": "Sensors_PCB",
+      "material": "PCB"
+    },
+    {
+      "array_prefix": "55",
+      "name": "Sensors_OpticalWindow",
+      "material": "Sensor_LED"
+    },
+    {
+      "array_prefix": "56",
+      "name": "Sensors_OpticalWindow",
+      "material": "Sensor_LED"
+    },
+    {
+      "array_prefix": "57",
+      "name": "Sensors_OpticalWindow",
+      "material": "Sensor_Glass"
+    },
+    {
+      "array_prefix": "58",
+      "name": "Sensors_OpticalWindow",
+      "material": "Sensor_Glass"
+    },
+    {
+      "array_prefix": "59",
+      "name": "Sensors_OpticalWindow",
+      "material": "Sensor_Glass"
+    },
+    {
+      "array_prefix": "60",
+      "name": "Sensors_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "61",
+      "name": "Sensors_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "62",
+      "name": "Sensors_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "63",
+      "name": "Sensors_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "64",
+      "name": "Sensors_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "65",
+      "name": "Sensors_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "66",
+      "name": "Sensors_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "67",
+      "name": "Sensors_Contact",
+      "material": "Gold_Contacts"
+    },
+    {
+      "array_prefix": "68",
+      "name": "Backplate_InnerShell",
+      "material": "Housing_Matte"
+    },
+    {
+      "array_prefix": "69",
+      "name": "Backplate_OpticalGlass",
+      "material": "Sensor_LED"
+    },
+    {
+      "array_prefix": "70",
+      "name": "Backplate_OpticalGlass",
+      "material": "Sensor_LED"
+    },
+    {
+      "array_prefix": "71",
+      "name": "Backplate_OpticalGlass",
+      "material": "Sensor_Glass"
+    },
+    {
+      "array_prefix": "72",
+      "name": "Backplate_OpticalGlass",
+      "material": "Sensor_Glass"
+    },
+    {
+      "array_prefix": "73",
+      "name": "Backplate_OpticalGlass",
+      "material": "Sensor_Glass"
+    },
+    {
+      "array_prefix": "74",
+      "name": "Clasp_Bridge",
+      "material": "Clasp_Metal"
+    },
+    {
+      "array_prefix": "75",
+      "name": "Clasp_Hinge",
+      "material": "Clasp_Metal"
+    },
+    {
+      "array_prefix": "76",
+      "name": "Clasp_Hinge",
+      "material": "Clasp_Metal"
+    },
+    {
+      "array_prefix": "77",
+      "name": "Clasp_ConceptMark",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "78",
+      "name": "Clasp_ConceptMark",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "79",
+      "name": "Clasp_ConceptMark",
+      "material": "Battery_Foil"
+    },
+    {
+      "array_prefix": "80",
+      "name": "Clasp_ConceptMark",
+      "material": "Battery_Foil"
+    }
+  ]
+}

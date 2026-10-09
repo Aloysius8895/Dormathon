@@ -1,0 +1,42 @@
+desktop ready errors: [] http: []
+  interaction: {"target": {"x": 588.7185068633131, "y": 450, "canHover": true}, "mainboard_z_before": 0.0378, "hovered": 3, "clicked": {"index": 3, "z": 0.0365, "ry": 0.505}, "rest": {"whoop": 0.11489325230291705, "watch": 0.11173550079958247, "progress": 0}, "longpress": {"whoop": 0.11178330430291708, "watch": 0.10862555279958248, "progress": 1}}
+  desktop-00.png None rot=[0, 0, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-01.png {'name': 'Intro', 'progress': 0.264} rot=[-0.365, 1.899, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-02.png {'name': 'Intro', 'progress': 0.526} rot=[0, 6.283, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-03.png {'name': 'Intro', 'progress': 0.794} rot=[0, 5.196, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-04.png {'name': 'Disassembly', 'progress': 0.337} rot=[0, 4.869, 0] pos=[0, 0, 0] housing={'z': 0.0421, 'ry': 0.112, 'visible': True} band={'z': -0.0411, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-05.png {'name': 'Disassembly', 'progress': 0.726} rot=[0, 4.869, 0] pos=[0, 0, 0] housing={'z': 0.0736, 'ry': 0.314, 'visible': True} band={'z': -0.2, 'ry': 0, 'visible': False} oldVisible=0
+  desktop-06.png {'name': 'Particles', 'progress': 0.183} rot=[-0.513, 5.969, 0] pos=[0, 0, 0] housing={'z': 0.2316, 'ry': 0, 'visible': False} band={'z': -0.2, 'ry': 0, 'visible': False} oldVisible=0
+  desktop-07.png {'name': 'Particles', 'progress': 0.378} rot=[-0.812, 6.153, 0] pos=[0, 0, 0] housing={'z': 0.2316, 'ry': 0, 'visible': False} band={'z': -0.2, 'ry': 0, 'visible': False} oldVisible=0
+  desktop-08.png {'name': 'Particles', 'progress': 0.573} rot=[-0.942, 6.283, 0] pos=[0, -0.413, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': -0.0349, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-09.png {'name': 'Particles', 'progress': 0.768} rot=[-0.016, 6.283, 0] pos=[0, -0.008, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-10.png {'name': 'Particles', 'progress': 0.96} rot=[-0.931, 6.283, 0] pos=[0, -1.086, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-11.png {'name': 'Presentation', 'progress': 0.224} rot=[-0.942, 6.283, 0] pos=[0, -1.1, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-12.png {'name': 'Presentation', 'progress': 0.381} rot=[-0.106, 6.283, 0] pos=[0.532, -0.124, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-13.png {'name': 'Presentation', 'progress': 0.535} rot=[-0.014, 6.283, -0.011] pos=[0.596, -0.008, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-14.png {'name': 'Presentation', 'progress': 0.691} rot=[-1.885, 6.283, -1.571] pos=[0, -1.15, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-15.png {'name': 'Presentation', 'progress': 0.848} rot=[-1.274, 6.283, -1.571] pos=[0, -1.228, 2.954] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-16.png {'name': 'Straps', 'progress': 0.213} rot=[-1.571, 6.283, -1.571] pos=[0, 0, 3.8] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-17.png {'name': 'Straps', 'progress': 0.524} rot=[-1.571, 6.283, -1.571] pos=[0, 0, 3.8] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-18.png {'name': 'Straps', 'progress': 0.836} rot=[-1.571, 6.283, -1.571] pos=[0, 0, 3.8] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-19.png {'name': 'Images', 'progress': 0.621} rot=[-1.571, 6.283, -1.571] pos=[0, 0, 3.8] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-20.png {'name': 'Colors', 'progress': 0.271} rot=[-0.471, 0.63, 0] pos=[0, 0, 0.014] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-21.png {'name': 'Colors', 'progress': 0.554} rot=[-0.47, 0.627, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-22.png {'name': 'Colors', 'progress': 0.837} rot=[-0.002, 0.003, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-23.png {'name': 'Parts', 'progress': 0.686} rot=[0, 0, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  desktop-24.png None rot=[0, 0, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+mobile ready errors: [] http: []
+  mobile-00.png None rot=[0, 0, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-01.png {'name': 'Intro', 'progress': 0.576} rot=[0, 6.277, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-02.png {'name': 'Disassembly', 'progress': 0.45} rot=[0, 4.869, 0] pos=[0, 0, 0] housing={'z': 0.0704, 'ry': 0.25, 'visible': True} band={'z': -0.1316, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-03.png {'name': 'Particles', 'progress': 0.23} rot=[-0.613, 5.969, 0] pos=[0.25, 0, 0] housing={'z': 0.2316, 'ry': 0, 'visible': False} band={'z': -0.2, 'ry': 0, 'visible': False} oldVisible=0
+  mobile-04.png {'name': 'Particles', 'progress': 0.609} rot=[-0.942, 6.283, 0] pos=[0, -0.493, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': -0.0029, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-05.png {'name': 'Particles', 'progress': 0.988} rot=[-0.942, 6.283, 0] pos=[0, -1.1, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-06.png {'name': 'Presentation', 'progress': 0.394} rot=[-0.046, 6.283, 0] pos=[0.57, -0.054, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-07.png {'name': 'Presentation', 'progress': 0.697} rot=[-1.885, 6.283, -1.571] pos=[0, -1.15, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-08.png {'name': 'Straps', 'progress': 0.202} rot=[-1.571, 6.283, -1.571] pos=[0, 0, 3.8] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-09.png {'name': 'Straps', 'progress': 0.809} rot=[-1.571, 6.283, -1.571] pos=[0, 0, 3.8] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-10.png {'name': 'Colors', 'progress': 0.343} rot=[-0.471, 0.628, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-11.png {'name': 'Colors', 'progress': 0.895} rot=[0, 0, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+  mobile-12.png None rot=[0, 0, 0] pos=[0, 0, 0] housing={'z': 0.0316, 'ry': 0, 'visible': True} band={'z': 0, 'ry': 0, 'visible': True} oldVisible=0
+OK

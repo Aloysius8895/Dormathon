@@ -1,0 +1,33 @@
+/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * freight-big-pro:
+ *   - http://typekit.com/eulas/000000000000000077359f9d
+ *   - http://typekit.com/eulas/000000000000000077359fa0
+ *
+ * © 2009-2026 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2024-03-08 10:32:07 UTC"}*/
+
+
+@font-face {
+font-family:"freight-big-pro";
+src:url("/vendor/typekit/freight-big-pro-0.woff2") format("woff2");
+font-display:swap;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"freight-big-pro";
+src:url("/vendor/typekit/freight-big-pro-1.woff2") format("woff2");
+font-display:swap;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+.tk-freight-micro-pro { font-family: "freight-micro-pro",serif; }
+.tk-freight-big-pro { font-family: "freight-big-pro",serif; }
+.tk-freight-display-pro { font-family: "freight-display-pro",serif; }
+.tk-freight-macro-pro { font-family: "freight-macro-pro",serif; }
+.tk-freightbigcmp-pro { font-family: "freightbigcmp-pro",serif; }
+.tk-freightdispcmp-pro { font-family: "freightdispcmp-pro",serif; }

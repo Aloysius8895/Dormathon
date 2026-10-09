@@ -1,0 +1,104 @@
+[
+  {
+    "viewport": "desktop",
+    "initial": {
+      "loader_visible": true,
+      "canvas": 1,
+      "title": "FS 60P - The timeless automatic watch by 60fps",
+      "body_text": "Now loading\n\nSWAP\n\nSWAP\n\nSWAP\n\nSWAP\n\nHOLD TO\nEXPLORE\n\nSELECT\nMODEL\n\nFS 60P\n\nFS\n60P\nColor\n\nSilver Steel\n\nDeep Black\n\nPure Gold\n\nRose Gold\n\nMODEL\n146GR\n\nFS\n60P\n\nTHE\nTIMELESS\nAUTOMATIC\n60MM\nWATCH\n\nChronograph\n\nA contemporary interpretation of the chronograph, combining precision engineering with refined aesthetics. Designed to capture every moment with accuracy and elegance.\n\nAutomatic Movement\n\nPowered by a high-performance automatic calibre, delivering reliable precision and a smooth, continuous motion visible through every detail of the dial.\n\nP\n0\n6\nS\nF\nP\n0\n6\nS\nF\n\nFS\n60P\n\nTHE\nHIGHLY\nPRECISE\nAU"
+    },
+    "request_failed": [],
+    "http_errors": [
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/hands.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/crystal.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/bezel.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/lugs.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/strap.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/buckle.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/crown.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/caseback.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/movement.jpg",
+        "status": 404
+      }
+    ],
+    "external_requests": [],
+    "final_scroll": 6400,
+    "page_height": 37916
+  },
+  {
+    "viewport": "mobile",
+    "initial": {
+      "loader_visible": false,
+      "canvas": 1,
+      "title": "FS 60P - The timeless automatic watch by 60fps",
+      "body_text": "FS 60P\n\nFS\n60P\nColor\n\nSilver Steel\n\nDeep Black\n\nPure Gold\n\nRose Gold\n\nMODEL\n146GR\n\nFS\n60P\n\nTHE\nTIMELESS\nAUTOMATIC\n60MM\nWATCH\n\nChronograph\n\nA contemporary interpretation of the chronograph, combining precision engineering with refined aesthetics. Designed to capture every moment with accuracy and elegance.\n\nAutomatic Movement\n\nPowered by a high-performance automatic calibre, delivering reliable precision and a smooth, continuous motion visible through every detail of the dial.\n\nP\n0\n6\nS\nF\nP\n0\n6\nS\nF\n\nFS\n60P\n\nTHE\nHIGHLY\nPRECISE\nAUTOMATIC\nMOVEMENT\n\nSelf-Winding Movement\n\nThe movement regulates the "
+    },
+    "request_failed": [],
+    "http_errors": [
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/hands.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/bezel.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/crystal.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/lugs.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/strap.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/buckle.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/crown.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/caseback.jpg",
+        "status": 404
+      },
+      {
+        "url": "http://127.0.0.1:18082/assets/the-watch/img/parts/movement.jpg",
+        "status": 404
+      }
+    ],
+    "external_requests": [],
+    "final_scroll": 5400,
+    "page_height": 31578
+  }
+]

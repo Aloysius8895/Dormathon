@@ -1,0 +1,51 @@
+{
+  "modelChecks": {
+    "whoop-web.glb": {
+      "bytes": 11772124,
+      "vertices": 249856,
+      "triangles": 463208,
+      "groups": [
+        "Strap",
+        "Clasp",
+        "Housing",
+        "Haptics",
+        "Mainboard",
+        "Battery",
+        "Sensors",
+        "Backplate"
+      ],
+      "animations": [
+        "WHOOP_Explode",
+        "WHOOP_ClaspOpen"
+      ],
+      "embeddedPBRImages": 4,
+      "valid": true
+    },
+    "whoop-mobile.glb": {
+      "bytes": 1643348,
+      "vertices": 32788,
+      "triangles": 53408,
+      "groups": [
+        "Strap",
+        "Clasp",
+        "Housing",
+        "Haptics",
+        "Mainboard",
+        "Battery",
+        "Sensors",
+        "Backplate"
+      ],
+      "animations": [
+        "WHOOP_Explode",
+        "WHOOP_ClaspOpen"
+      ],
+      "embeddedPBRImages": 4,
+      "valid": true
+    }
+  },
+  "imageLinks": "passed",
+  "variantCount": 4,
+  "referenceStatus": "concept reconstruction",
+  "actualBrowserGPUCheck": "not available in this runtime",
+  "viewerLogicCheck": "passed with a mock WebGL context; rendering visually inspected via CPU output"
+}

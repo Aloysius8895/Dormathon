@@ -1,0 +1,9 @@
+/* Keep every original page style intact; replace only its rendered product. */
+#canvas-wrapper > canvas.whoop-overlay-canvas {
+  z-index: 1;
+  pointer-events: none !important;
+  transition: opacity 450ms ease;
+}
+body.whoop-model-ready #canvas-wrapper > canvas:not(.whoop-overlay-canvas) {
+  visibility: hidden !important;
+}
